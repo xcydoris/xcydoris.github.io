@@ -13,4 +13,4 @@ output:
 
 ## Let's add some links
 
-I often use [google] 
+I often use [google](http://www.google.com) to do **data science** 
